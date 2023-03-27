@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://arclix.github.io/arclix-docs/svg/arclix.svg" height="200">
+<img src="https://arclix.github.io/arclix-docs/svg/arclix.svg" height="170">
 </p>
 
 <h1 align="center">
