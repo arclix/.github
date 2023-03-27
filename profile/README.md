@@ -9,7 +9,7 @@ Arclix
 An Open Source CLI with Creation and Component Generation for React.
 <p>
 <div align="center">
-  <a href="https://arclix.github.io/arclix-docs">Documentation</a> —
-  <a href="https://arclix.github.io/arclix-docs/docs/intro">Getting Started</a> —
-  <a href="https://arclix.github.io/arclix-docs/contribution/category/guidelines">Contribution Guidelines</a>
+  <a href="https://arclix.github.io/arclix-docs" target="_blank">Documentation</a> —
+  <a href="https://arclix.github.io/arclix-docs/docs/intro" target="_blank">Getting Started</a> —
+  <a href="https://arclix.github.io/arclix-docs/contribution/category/guidelines" target="_blank">Contribution Guidelines</a>
 </div>
